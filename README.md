@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya N Chaobey
+# 👋 Hi, I'm Aditya N Choubey
 
 I'm a passionate Full Stack Developer with a strong foundation in **Frontend technologies** and currently expanding my expertise in **Backend development** using **Golang** and **Node.js (Express)**.
 
