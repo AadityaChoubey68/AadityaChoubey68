@@ -20,8 +20,6 @@ I'm a passionate Full Stack Developer with a strong foundation in **Frontend tec
 - HTML5, CSS3
 - Responsive UI Design
 - API Integration
-- C C++ CSS3 HTML5 JavaScript Python TypeScript Context-API Green Sock NPM React React Query React Router Redux Styled Components TailwindCSS
-
 
 
 ## 🧠 Currently Learning
