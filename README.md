@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya N Chaobey
 
-<!--
-**AadityaChoubey68/AadityaChoubey68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with a strong foundation in **Frontend technologies** and currently expanding my expertise in **Backend development** using **Golang** and **Node.js (Express)**.
 
-Here are some ideas to get you started:
+🎓 I completed my **B.Tech** from **Guru Gobind Singh Indraprastha University** (2021–2025), where I built a solid understanding of software development, problem-solving, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+
+### 🛠️ Backend
+- Golang (Go)
+- Node.js with Express.js
+- RESTful APIs
+- SQL (PostgreSQL, MySQL)
+
+### 🌐 Frontend
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- HTML5, CSS3
+- Responsive UI Design
+- API Integration
+
+## 🧠 Currently Learning
+- Microservices with Go
+- PostgreSQL for production-grade apps
+- Authentication and Security Best Practices
+
+## 📌 Goals
+- Build scalable full-stack applications
+- Master cloud-native Go development
+- Contribute to open-source projects
+
+---
+
+📫 **Let's Connect:**  
+Feel free to reach out or collaborate on projects!  
+[LinkedIn](https://www.linkedin.com/in/aditya-n-chaubey/) • [Portfolio Website](#) *(replace with actual links)*  
